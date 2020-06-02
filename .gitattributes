@@ -1,3 +1,5 @@
 *.mod linguist-language=go
 *.sum linguist-language=go
 *.ini linguist-language=go
+*.log linguist-language=go
+*.exe linguist-language=go
